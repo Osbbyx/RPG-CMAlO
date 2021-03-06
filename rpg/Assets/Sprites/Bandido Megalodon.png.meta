@@ -1,0 +1,2177 @@
+fileFormatVersion: 2
+guid: fac0ef8c7ca75004699bddc594fd67b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7618681895868464676
+    second: Bandido Megalodon_0
+  - first:
+      213: -6032180437013388265
+    second: Bandido Megalodon_1
+  - first:
+      213: 2742996718103185839
+    second: Bandido Megalodon_2
+  - first:
+      213: 6174987769301273975
+    second: Bandido Megalodon_3
+  - first:
+      213: 2393733410640682263
+    second: Bandido Megalodon_4
+  - first:
+      213: -3267205707624679758
+    second: Bandido Megalodon_5
+  - first:
+      213: -6295977984318461334
+    second: Bandido Megalodon_6
+  - first:
+      213: -1531835110241047497
+    second: Bandido Megalodon_7
+  - first:
+      213: -5473379507699180182
+    second: Bandido Megalodon_8
+  - first:
+      213: -380307762737125264
+    second: Bandido Megalodon_9
+  - first:
+      213: 4562953829751586781
+    second: Bandido Megalodon_10
+  - first:
+      213: -6090367656147860563
+    second: Bandido Megalodon_11
+  - first:
+      213: 3304767964969724231
+    second: Bandido Megalodon_12
+  - first:
+      213: -7210833380327921834
+    second: Bandido Megalodon_13
+  - first:
+      213: -145687959371812226
+    second: Bandido Megalodon_14
+  - first:
+      213: -6459321658993813263
+    second: Bandido Megalodon_15
+  - first:
+      213: 5404693271821210364
+    second: Bandido Megalodon_16
+  - first:
+      213: 535021441789417157
+    second: Bandido Megalodon_17
+  - first:
+      213: 6179577211291409002
+    second: Bandido Megalodon_18
+  - first:
+      213: 7346222714075333299
+    second: Bandido Megalodon_19
+  - first:
+      213: 8522608238139910076
+    second: Bandido Megalodon_20
+  - first:
+      213: 7834067918123838676
+    second: Bandido Megalodon_21
+  - first:
+      213: 6303821163057518902
+    second: Bandido Megalodon_22
+  - first:
+      213: 6759835832858406681
+    second: Bandido Megalodon_23
+  - first:
+      213: 8524420321422247841
+    second: Bandido Megalodon_24
+  - first:
+      213: -7330300653395385636
+    second: Bandido Megalodon_25
+  - first:
+      213: 306522615336518827
+    second: Bandido Megalodon_26
+  - first:
+      213: 8869856574284995802
+    second: Bandido Megalodon_27
+  - first:
+      213: 7341153040094856570
+    second: Bandido Megalodon_28
+  - first:
+      213: -4986168125423254037
+    second: Bandido Megalodon_29
+  - first:
+      213: 1638982529214221518
+    second: Bandido Megalodon_30
+  - first:
+      213: -1197006205373968463
+    second: Bandido Megalodon_31
+  - first:
+      213: 4621373665890195073
+    second: Bandido Megalodon_32
+  - first:
+      213: -2081944096005153182
+    second: Bandido Megalodon_33
+  - first:
+      213: 9030717546482612168
+    second: Bandido Megalodon_34
+  - first:
+      213: 3443036104054025749
+    second: Bandido Megalodon_35
+  - first:
+      213: 8723268726183561974
+    second: Bandido Megalodon_36
+  - first:
+      213: -6844748193088262714
+    second: Bandido Megalodon_37
+  - first:
+      213: -3670973848120530555
+    second: Bandido Megalodon_38
+  - first:
+      213: 7568814914375880535
+    second: Bandido Megalodon_39
+  - first:
+      213: 2849443966041716154
+    second: Bandido Megalodon_40
+  - first:
+      213: 9026023631894010495
+    second: Bandido Megalodon_41
+  - first:
+      213: -6389293191023879740
+    second: Bandido Megalodon_42
+  - first:
+      213: 6514685813902621490
+    second: Bandido Megalodon_43
+  - first:
+      213: -3964068451474589820
+    second: Bandido Megalodon_44
+  - first:
+      213: -4184732740395514489
+    second: Bandido Megalodon_45
+  - first:
+      213: 3496377770356596455
+    second: Bandido Megalodon_46
+  - first:
+      213: -8077823829796505581
+    second: Bandido Megalodon_47
+  - first:
+      213: -3219587643387614714
+    second: Bandido Megalodon_48
+  - first:
+      213: 2710748875686670975
+    second: Bandido Megalodon_49
+  - first:
+      213: 607757882417636683
+    second: Bandido Megalodon_50
+  - first:
+      213: -6151732462880914727
+    second: Bandido Megalodon_51
+  - first:
+      213: 5356563919204457414
+    second: Bandido Megalodon_52
+  - first:
+      213: 2424046062011492405
+    second: Bandido Megalodon_53
+  - first:
+      213: 3615087738117100676
+    second: Bandido Megalodon_54
+  - first:
+      213: 724321494849517106
+    second: Bandido Megalodon_55
+  - first:
+      213: -3240351130320159650
+    second: Bandido Megalodon_56
+  - first:
+      213: 3034834973804506813
+    second: Bandido Megalodon_57
+  - first:
+      213: -8269863607829102689
+    second: Bandido Megalodon_58
+  - first:
+      213: 6062073066778286327
+    second: Bandido Megalodon_59
+  - first:
+      213: -3476551843267515557
+    second: Bandido Megalodon_60
+  - first:
+      213: 422588018330341378
+    second: Bandido Megalodon_61
+  - first:
+      213: 7527667947606942642
+    second: Bandido Megalodon_62
+  - first:
+      213: -2129540692354645157
+    second: Bandido Megalodon_63
+  - first:
+      213: 1619467101929762614
+    second: Bandido Megalodon_64
+  - first:
+      213: 7575955661465718761
+    second: Bandido Megalodon_65
+  - first:
+      213: 7266261984637270165
+    second: Bandido Megalodon_66
+  - first:
+      213: 5766351074624126662
+    second: Bandido Megalodon_67
+  - first:
+      213: 8353382910910970490
+    second: Bandido Megalodon_68
+  - first:
+      213: -3709912693630871801
+    second: Bandido Megalodon_69
+  - first:
+      213: -8573193502497557075
+    second: Bandido Megalodon_70
+  - first:
+      213: 8910437395282518651
+    second: Bandido Megalodon_71
+  - first:
+      213: 678092391915896491
+    second: Bandido Megalodon_72
+  - first:
+      213: 7124441258070827701
+    second: Bandido Megalodon_73
+  - first:
+      213: -3216844898626132940
+    second: Bandido Megalodon_74
+  - first:
+      213: 6432294446875518825
+    second: Bandido Megalodon_75
+  - first:
+      213: 7017538914108658016
+    second: Bandido Megalodon_76
+  - first:
+      213: 8700287294262559598
+    second: Bandido Megalodon_77
+  - first:
+      213: -1062790760046709435
+    second: Bandido Megalodon_78
+  - first:
+      213: -8765891352779955576
+    second: Bandido Megalodon_79
+  - first:
+      213: -467925586343426319
+    second: Bandido Megalodon_80
+  - first:
+      213: 7848186896018025745
+    second: Bandido Megalodon_81
+  - first:
+      213: -7840227987342564119
+    second: Bandido Megalodon_82
+  - first:
+      213: -2378144168564097496
+    second: Bandido Megalodon_83
+  - first:
+      213: 387712342970267705
+    second: Bandido Megalodon_84
+  - first:
+      213: 922213856475003383
+    second: Bandido Megalodon_85
+  - first:
+      213: 5316718266601005210
+    second: Bandido Megalodon_86
+  - first:
+      213: 6974096845384529589
+    second: Bandido Megalodon_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bandido Megalodon_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2087
+        width: 150
+        height: 202
+      alignment: 9
+      pivot: {x: 0.4923172, y: 0.19192111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd18f046e21054690800000000000000
+      internalID: -7618681895868464676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2074
+        width: 157
+        height: 231
+      alignment: 9
+      pivot: {x: 0.49265966, y: 0.23558725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a1c63ad3694ca0800000000000000
+      internalID: -6032180437013388265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2077
+        width: 154
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5074831, y: 0.25738028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa94a9a6bf4111620800000000000000
+      internalID: 2742996718103185839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2077
+        width: 155
+        height: 212
+      alignment: 9
+      pivot: {x: 0.48512986, y: 0.23363337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d8591e8a6f1b550800000000000000
+      internalID: 6174987769301273975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2102
+        width: 154
+        height: 198
+      alignment: 9
+      pivot: {x: 0.49251646, y: 0.19151846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd83cbadf383120800000000000000
+      internalID: 2393733410640682263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2076
+        width: 152
+        height: 232
+      alignment: 9
+      pivot: {x: 0.48483598, y: 0.22182491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6f6e428bd88a2d0800000000000000
+      internalID: -3267205707624679758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_6
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2087
+        width: 158
+        height: 209
+      alignment: 9
+      pivot: {x: 0.4927059, y: 0.20224072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aa40b716130a8a0800000000000000
+      internalID: -6295977984318461334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_7
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2080
+        width: 157
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5073398, y: 0.23109654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c6c9f4514ddbae0800000000000000
+      internalID: -1531835110241047497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_8
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 2085
+        width: 143
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5564921, y: 0.1780369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d10b24656aa04b0800000000000000
+      internalID: -5473379507699180182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_9
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 2035
+        width: 268
+        height: 320
+      alignment: 9
+      pivot: {x: 0.7712876, y: 0.30309066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078eab0da10e8baf0800000000000000
+      internalID: -380307762737125264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_10
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 2051
+        width: 250
+        height: 292
+      alignment: 9
+      pivot: {x: 0.7197324, y: 0.422538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff9d4255ed25f30800000000000000
+      internalID: 4562953829751586781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_11
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2068
+        width: 284
+        height: 263
+      alignment: 9
+      pivot: {x: 0.5853349, y: 0.37099257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da347c782eaaa7ba0800000000000000
+      internalID: -6090367656147860563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_13
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 2071
+        width: 274
+        height: 245
+      alignment: 9
+      pivot: {x: 0.3761717, y: 0.34832588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6576607ce39fdeb90800000000000000
+      internalID: -7210833380327921834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1731
+        width: 148
+        height: 210
+      alignment: 9
+      pivot: {x: 0.49221328, y: 0.21463391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e727795a2996afdf0800000000000000
+      internalID: -145687959371812226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1712
+        width: 136
+        height: 235
+      alignment: 9
+      pivot: {x: 0.5254214, y: 0.2547997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8dfa19c21eb56a0800000000000000
+      internalID: -6459321658993813263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_16
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1712
+        width: 134
+        height: 217
+      alignment: 9
+      pivot: {x: 0.50860006, y: 0.2450823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2d8da35e3510b40800000000000000
+      internalID: 5404693271821210364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_17
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1712
+        width: 136
+        height: 217
+      alignment: 9
+      pivot: {x: 0.48305243, y: 0.26632535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c65319aa27cc6700800000000000000
+      internalID: 535021441789417157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_18
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1727
+        width: 147
+        height: 215
+      alignment: 9
+      pivot: {x: 0.49999958, y: 0.21591002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a9f1d9bb442c550800000000000000
+      internalID: 6179577211291409002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_19
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1716
+        width: 140
+        height: 228
+      alignment: 9
+      pivot: {x: 0.4917681, y: 0.23210813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2cd51f2a603f560800000000000000
+      internalID: 7346222714075333299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_20
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1738
+        width: 135
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5170727, y: 0.1624164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7a522b903664670800000000000000
+      internalID: 8522608238139910076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_21
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1731
+        width: 138
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5083503, y: 0.22144827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc2e0ec34338bc60800000000000000
+      internalID: 7834067918123838676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_22
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1749
+        width: 242
+        height: 215
+      alignment: 9
+      pivot: {x: 0.680261, y: 0.25952888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63912afd2fbab7750800000000000000
+      internalID: 6303821163057518902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_23
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1694
+        width: 334
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5386992, y: 0.2267622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f6b75ffd2cfcd50800000000000000
+      internalID: 6759835832858406681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_24
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1687
+        width: 344
+        height: 279
+      alignment: 9
+      pivot: {x: 0.37318882, y: 0.2046629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a78e763e13dc4670800000000000000
+      internalID: 8524420321422247841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_25
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1722
+        width: 284
+        height: 241
+      alignment: 9
+      pivot: {x: 0.266752, y: 0.23854363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2ed81b46a854a90800000000000000
+      internalID: -7330300653395385636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_26
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1701
+        width: 256
+        height: 265
+      alignment: 9
+      pivot: {x: 0.323287, y: 0.28661004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4c1c2d1bcf04400800000000000000
+      internalID: 306522615336518827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1362
+        width: 154
+        height: 215
+      alignment: 9
+      pivot: {x: 0.50748354, y: 0.23199037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc9bee4f8f081b70800000000000000
+      internalID: 8869856574284995802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_28
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1346
+        width: 152
+        height: 233
+      alignment: 9
+      pivot: {x: 0.50758183, y: 0.2625874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7502ac7bc301e560800000000000000
+      internalID: 7341153040094856570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_29
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1355
+        width: 151
+        height: 222
+      alignment: 9
+      pivot: {x: 0.50763184, y: 0.24044168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be585cdf1829dcab0800000000000000
+      internalID: -4986168125423254037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_30
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1358
+        width: 151
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5381599, y: 0.25162953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc82e63de5deb610800000000000000
+      internalID: 1638982529214221518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_31
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1372
+        width: 151
+        height: 218
+      alignment: 9
+      pivot: {x: 0.50763184, y: 0.19867392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf0fbeb231636fe0800000000000000
+      internalID: -1197006205373968463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_32
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1358
+        width: 153
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29720977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186dab13dda622040800000000000000
+      internalID: 4621373665890195073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_33
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1362
+        width: 152
+        height: 226
+      alignment: 9
+      pivot: {x: 0.53790927, y: 0.26543272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e146310e27b13e0800000000000000
+      internalID: -2081944096005153182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_34
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1351
+        width: 152
+        height: 236
+      alignment: 9
+      pivot: {x: 0.53032726, y: 0.28513816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7bbf003cd835d70800000000000000
+      internalID: 9030717546482612168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_35
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1368
+        width: 252
+        height: 226
+      alignment: 9
+      pivot: {x: 0.31406996, y: 0.24263743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e2cfa381f18cf20800000000000000
+      internalID: 3443036104054025749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_36
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1346
+        width: 295
+        height: 269
+      alignment: 9
+      pivot: {x: 0.505477, y: 0.41591352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa027840b64f0970800000000000000
+      internalID: 8723268726183561974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_37
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1360
+        width: 351
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5460306, y: 0.41266695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd2afd88c19201a0800000000000000
+      internalID: -6844748193088262714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_38
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1388
+        width: 283
+        height: 245
+      alignment: 9
+      pivot: {x: 0.6883998, y: 0.36810926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589e60b1cb41e0dc0800000000000000
+      internalID: -3670973848120530555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_40
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1378
+        width: 253
+        height: 237
+      alignment: 9
+      pivot: {x: 0.7235122, y: 0.35002246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5fb4ba0324b8720800000000000000
+      internalID: 2849443966041716154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1059
+        width: 150
+        height: 210
+      alignment: 9
+      pivot: {x: 0.4923172, y: 0.23109712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad259dba0e24d70800000000000000
+      internalID: 9026023631894010495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_42
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1033
+        width: 134
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25095588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c91337d1bba457a0800000000000000
+      internalID: -6389293191023879740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_43
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1032
+        width: 136
+        height: 218
+      alignment: 9
+      pivot: {x: 0.52542114, y: 0.25682473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b31f04b30d86a50800000000000000
+      internalID: 6514685813902621490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_44
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1035
+        width: 135
+        height: 217
+      alignment: 9
+      pivot: {x: 0.55121934, y: 0.26101446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4873684febcccf8c0800000000000000
+      internalID: -3964068451474589820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_45
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1048
+        width: 147
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5156794, y: 0.22663063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78547c88eb7dce5c0800000000000000
+      internalID: -4184732740395514489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_46
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1035
+        width: 139
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5248725, y: 0.22463854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee5daabe01a58030800000000000000
+      internalID: 3496377770356596455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_47
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1041
+        width: 136
+        height: 200
+      alignment: 9
+      pivot: {x: 0.52542114, y: 0.14850587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3183bc2660ec5ef80800000000000000
+      internalID: -8077823829796505581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_48
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1051
+        width: 138
+        height: 207
+      alignment: 9
+      pivot: {x: 0.4832976, y: 0.19936381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ae4a0b81ab153d0800000000000000
+      internalID: -3219587643387614714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_50
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1043
+        width: 278
+        height: 250
+      alignment: 9
+      pivot: {x: 0.3451617, y: 0.30795312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4562f2f2903f6800800000000000000
+      internalID: 607757882417636683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_51
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1027
+        width: 284
+        height: 264
+      alignment: 9
+      pivot: {x: 0.54663604, y: 0.37457785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d28eb41be7a0aaa0800000000000000
+      internalID: -6151732462880914727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_52
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 998
+        width: 250
+        height: 293
+      alignment: 9
+      pivot: {x: 0.73840237, y: 0.40394273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb1bd41186565a40800000000000000
+      internalID: 5356563919204457414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_53
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 1007
+        width: 267
+        height: 320
+      alignment: 9
+      pivot: {x: 0.7604267, y: 0.3137478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538216ddc01f3a120800000000000000
+      internalID: 2424046062011492405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_54
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 1043
+        width: 143
+        height: 276
+      alignment: 9
+      pivot: {x: 0.5463099, y: 0.17008464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484175ee42f5b2230800000000000000
+      internalID: 3615087738117100676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 610
+        width: 192
+        height: 295
+      alignment: 9
+      pivot: {x: 0.4491686, y: 0.46278116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2367fabdf8e4d0a00800000000000000
+      internalID: 724321494849517106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_56
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 619
+        width: 192
+        height: 291
+      alignment: 9
+      pivot: {x: 0.4618764, y: 0.41196212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c3bb9a0d5f703d0800000000000000
+      internalID: -3240351130320159650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_57
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 630
+        width: 193
+        height: 275
+      alignment: 9
+      pivot: {x: 0.4431108, y: 0.39353138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeac855456ed1a20800000000000000
+      internalID: 3034834973804506813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_58
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 641
+        width: 193
+        height: 264
+      alignment: 9
+      pivot: {x: 0.4431108, y: 0.37985322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f7a624dda8b3d80800000000000000
+      internalID: -8269863607829102689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_59
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 637
+        width: 184
+        height: 261
+      alignment: 9
+      pivot: {x: 0.43369824, y: 0.40651706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f858c3065fc02450800000000000000
+      internalID: 6062073066778286327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_60
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 671
+        width: 190
+        height: 227
+      alignment: 9
+      pivot: {x: 0.41010872, y: 0.27965635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b6fc2a48ec0cfc0800000000000000
+      internalID: -3476551843267515557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_61
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 673
+        width: 189
+        height: 225
+      alignment: 9
+      pivot: {x: 0.39026913, y: 0.29938558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2009aee40955dd500800000000000000
+      internalID: 422588018330341378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_62
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 692
+        width: 213
+        height: 209
+      alignment: 9
+      pivot: {x: 0.66036886, y: 0.21398284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3a4347d16a77860800000000000000
+      internalID: 7527667947606942642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_63
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 696
+        width: 215
+        height: 212
+      alignment: 9
+      pivot: {x: 0.6985965, y: 0.21802996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b534679e50a5272e0800000000000000
+      internalID: -2129540692354645157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_64
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 691
+        width: 218
+        height: 210
+      alignment: 9
+      pivot: {x: 0.6846711, y: 0.21534482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f64f7bfb0897610800000000000000
+      internalID: 1619467101929762614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_65
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 691
+        width: 179
+        height: 203
+      alignment: 9
+      pivot: {x: 0.6022295, y: 0.21153884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef06c3f883332960800000000000000
+      internalID: 7575955661465718761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_66
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 690
+        width: 184
+        height: 209
+      alignment: 9
+      pivot: {x: 0.579562, y: 0.21398284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598ba37d6c2f6d460800000000000000
+      internalID: 7266261984637270165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_67
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 698
+        width: 184
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5265211, y: 0.19961011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceb92d30c1360050800000000000000
+      internalID: 5766351074624126662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_68
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 693
+        width: 182
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5335143, y: 0.19351001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7abaa5df7d2de370800000000000000
+      internalID: 8353382910910970490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 376
+        width: 212
+        height: 208
+      alignment: 9
+      pivot: {x: 0.3446288, y: 0.22433795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7075b64af0eb38cc0800000000000000
+      internalID: -3709912693630871801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 374
+        width: 215
+        height: 212
+      alignment: 9
+      pivot: {x: 0.3184258, y: 0.22953911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da532f4aee5e50980800000000000000
+      internalID: -8573193502497557075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_71
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 369
+        width: 216
+        height: 210
+      alignment: 9
+      pivot: {x: 0.29102692, y: 0.20953558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72eb2bf99b38ab70800000000000000
+      internalID: 8910437395282518651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_72
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 369
+        width: 182
+        height: 203
+      alignment: 9
+      pivot: {x: 0.37934524, y: 0.20552883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeba011071196900800000000000000
+      internalID: 678092391915896491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_73
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 363
+        width: 184
+        height: 209
+      alignment: 9
+      pivot: {x: 0.42043802, y: 0.2081455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2e27ac3991fd260800000000000000
+      internalID: 7124441258070827701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_74
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 366
+        width: 183
+        height: 200
+      alignment: 9
+      pivot: {x: 0.48666698, y: 0.20721206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434acd7bb987b53d0800000000000000
+      internalID: -3216844898626132940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_75
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 362
+        width: 180
+        height: 203
+      alignment: 9
+      pivot: {x: 0.46611193, y: 0.21153869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967abbc38b9144950800000000000000
+      internalID: 6432294446875518825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_76
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 293
+        width: 315
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0615dec367e436160800000000000000
+      internalID: 7017538914108658016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_77
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 277
+        width: 318
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e634d52b231adb870800000000000000
+      internalID: 8700287294262559598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_78
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 260
+        width: 281
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54539d44f653041f0800000000000000
+      internalID: -1062790760046709435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_79
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 46
+        width: 192
+        height: 278
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.2323129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882e1e1224c495680800000000000000
+      internalID: -8765891352779955576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_80
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 49
+        width: 192
+        height: 267
+      alignment: 9
+      pivot: {x: 0.5254154, y: 0.22128436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f60fac88289189f0800000000000000
+      internalID: -467925586343426319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_81
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 49
+        width: 189
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5258188, y: 0.20325497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da704866c5aec60800000000000000
+      internalID: 7848186896018025745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_82
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 46
+        width: 189
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5129094, y: 0.20953566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4ee505f2ae13390800000000000000
+      internalID: -7840227987342564119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_83
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 46
+        width: 192
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5254154, y: 0.21890546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ef1188a722ffed0800000000000000
+      internalID: -2378144168564097496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_84
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 48
+        width: 190
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5256829, y: 0.19926804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938f6cd525e616500800000000000000
+      internalID: 387712342970267705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_85
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 67
+        width: 206
+        height: 209
+      alignment: 9
+      pivot: {x: 0.56514287, y: 0.21398261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9b22acd9c5ccc00800000000000000
+      internalID: 922213856475003383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_86
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 59
+        width: 223
+        height: 210
+      alignment: 9
+      pivot: {x: 0.58205914, y: 0.22115369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9065932817c8c940800000000000000
+      internalID: 5316718266601005210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandido Megalodon_87
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 54
+        width: 217
+        height: 214
+      alignment: 9
+      pivot: {x: 0.6011935, y: 0.24916865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6315a6128f8c060800000000000000
+      internalID: 6974096845384529589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
